@@ -6,7 +6,7 @@ from app.services import vector_store
 from app.tools.calculator import calculator # Import your tool
 
 # 1. Initialize LLM
-# Make sure the model supports function calling (e.g., gpt-3.5-turbo, gpt-4)
+# Make sure the model supports function calling 
 llm = ChatOpenAI(model="gpt-4", temperature=0, api_key=OPENAI_API_KEY)
 
 # 2. Define Tools
