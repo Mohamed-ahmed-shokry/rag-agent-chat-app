@@ -66,10 +66,7 @@ This project implements a chat application powered by Large Language Models (LLM
     *   Uvicorn (ASGI Server)
     *   python-dotenv
     *   NumExpr (for safe calculator evaluation)
-*   **Frontend:** (Assumed - details depend on actual implementation)
-    *   JavaScript/TypeScript
-    *   React/Vue/Angular/Svelte
-    *   CSS/Tailwind/MUI
+
 
 ## Setup and Installation
 
